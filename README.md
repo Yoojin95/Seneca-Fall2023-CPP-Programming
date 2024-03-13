@@ -1,4 +1,4 @@
-# Seneca Fall Semester Advanced C++ Programming Course-
+# OOP345: Advanced C++ Language Workshops and Milestones - Fall 2023
 This is a repository, which showcases my journey and accomplishments in the Advanced C++ Programming course taken during the Fall 2023 semester. 
 This course was a pivotal step in my academic and professional development, significantly enhancing my understanding and application of object-oriented programming in C++. 
 It also introduced me to the intricacies of multi-threaded programming, a skill essential for modern software development.
